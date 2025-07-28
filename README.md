@@ -39,10 +39,55 @@ The notebooks are structured to support **learning, experimentation, and practic
 - **FastText (via Gensim or Facebook)**
 
 ---
-
 ## 🧪 Getting Started
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/anjaliy11/NLP_.git
 cd NLP_
+
+2. Create a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Run Jupyter
+jupyter notebook
+
+📦 Dependencies
+spacy
+nltk
+gensim
+scikit-learn
+matplotlib
+jupyter
+Then run:
+python -m spacy download en_core_web_sm
+
+🎯 Use Cases
+💡 Education and training on NLP fundamentals
+
+🔍 Rapid prototyping of NLP preprocessing pipelines
+
+📊 Experimentation with vectorization and classification techniques
+
+🤖 Baseline development for text classification tasks
+
+🧑‍💻 Author
+Anjali Yadav
+🔗 GitHub Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
