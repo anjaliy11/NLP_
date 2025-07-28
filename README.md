@@ -55,8 +55,9 @@ pip install -r requirements.txt
 
 4. Run Jupyter
 jupyter notebook
+---
 
-📦 Dependencies
+## 📦 Dependencies
 spacy
 nltk
 gensim
@@ -66,7 +67,9 @@ jupyter
 Then run:
 python -m spacy download en_core_web_sm
 
-🎯 Use Cases
+---
+
+ ## 🎯 Use Cases
 💡 Education and training on NLP fundamentals
 
 🔍 Rapid prototyping of NLP preprocessing pipelines
@@ -75,9 +78,7 @@ python -m spacy download en_core_web_sm
 
 🤖 Baseline development for text classification tasks
 
-🧑‍💻 Author
-Anjali Yadav
-🔗 GitHub Profile
+
 
 
 
