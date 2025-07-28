@@ -1,0 +1,65 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Data and model files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.bin
+*.json
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Environment and config files
+*.env
+*.bak
+*.swp
+
+# VS Code and other editor settings
+.vscode/
+.idea/
+
+# Results and figures
+figures/
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# PyCharm
+*.iml
